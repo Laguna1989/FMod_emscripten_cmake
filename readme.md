@@ -1,6 +1,6 @@
 # Running FMod with emscripten and cmake
 
-This repo is a minimal working example of how to run fmod in emscripten using cmake
+This repo is a minimal working example of how to run fmod in emscripten(3.1.56) using cmake
 
 # Compilation Steps
 
